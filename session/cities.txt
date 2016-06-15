@@ -1,0 +1,21 @@
+# retrieved Jun 15, 2016 from:
+# https://de.wikipedia.org/wiki/Liste_der_Millionenst%C3%A4dte
+# list provided by B. Hilbig in a slightly different order
+position;name;population;country;continent
+a;3;Shanghai;19210000;China;Asien
+b;13;Seoul;10427819;Suedkorea;Asien
+c;16;Tokio;9068918;Japan;Asien
+d;17;London;8534761;Grossbritannien;Europa
+e;22;Bangkok;7229651;Thailand;Asien
+f;33;Santiago;4837248;Chile;Suedamerika
+g;34;Ankara;4650802;Tuerkei;Asien
+h;36;Rangun;4477638;Myanmar;Asien
+i;39;Wuhan;4184296;China;Asien
+j;43;Chongqing;3967028;China;Asien
+k;50;Tianjin;3766207;China;Asien
+l;52;Busan;3678551;Suedkorea;Asien
+m;54;Kano;3626204;Nigeria;Afrika
+n;56;Ibadan;3565810;Nigeria;Afrika
+o;59;Durban;3346799;Suedafrika;Afrika
+p;60;Harbin;3229883;China;Asien
+q;150;Montreal;1620693;Kanada;Nordamerika
