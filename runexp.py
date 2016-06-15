@@ -44,8 +44,7 @@ def askProminence(cityname, citycountry, distractors):
     """
     Bekanntheit
     """
-    visual.TextStim(win, pos=(0,200), text="Kennen Sie "
-                                    + cityname+"?\n < Ja\n - Nein",
+    visual.TextStim(win, pos=(0,200), text='Kennen Sie %s?\n < Ja\n - Nein' % (cityname),
                                     height=th).draw()
 
     win.flip()
@@ -64,8 +63,7 @@ def askProminence(cityname, citycountry, distractors):
     """
     Land
     """
-    visual.TextStim(win, pos=(0,200), text="In welchem Land liegt "
-                                            + cityname +"?",
+    visual.TextStim(win, pos=(0,200), text='In welchem Land liegt %s?' % (cityname),
                                             height=th).draw()
 
     distractorA, distractorB, distractorC = distractors
@@ -74,14 +72,14 @@ def askProminence(cityname, citycountry, distractors):
 
     first, second, third, fourth = lst
 
-    visual.TextStim(win, pos=(0,-100), text="[1] " + first
-                                        + "\n[2] " + second
-                                        + "\n[3] " + third
-                                        + "\n[4] " + fourth
-                                        + "\n[5] Keine Ahnung",
-                                        height=th).draw()
+    visual.TextStim(win,
+                    pos=(0,-100),
+                    text='[1] %s\n[2] %s \n[3] %s\n[4] %s\n[5] Keine Ahnung' %
+                    (first, second, third, fourth),
+                    height=th).draw()
 
     win.flip()
+
 
     response_country = None
     while response_country not in lst:
@@ -104,10 +102,11 @@ def askProminence(cityname, citycountry, distractors):
     """
     input_text = ""
 
-    response_text = visual.TextStim(win, pos=(0,200),
-                                        text="Wieviele Einwohner hat "
-                                        + cityname + "?\n\n\n"
-                                        + input_text, height=th)
+    response_text = visual.TextStim(win,
+                                    pos=(0,200),
+                                    text='Wieviele Einwohner hat %s?\n\n\n%s'
+                                    % (cityname, input_text)
+                                    , height=th)
 
     response_text.setAutoDraw(True)
     win.flip()
@@ -121,13 +120,19 @@ def askProminence(cityname, citycountry, distractors):
             input_text = input_text + pressed_key[0][0]
         if pressed_key and pressed_key[0][0] in ['backspace'] and input_text != "":
             input_text = input_text[:-1] #letzten character entfernen
-        response_text.text= "Wieviele Einwohner hat " + cityname + "?\n\n\n" + input_text
+        response_text.text= 'Wieviele Einwohner hat %s?\n\n\n%s' % (cityname, input_text)
         win.flip()
         if pressed_key and pressed_key[0][0] == 'return' and input_text != "":
             response = 'finish'
             response_text.setAutoDraw(False)
 
-    return (cityname, is_known, response_country, citycountry, distractorA, distractorB, distractorC, input_text)
+    return (cityname, is_known,
+            response_country,
+            citycountry,
+            distractorA,
+            distractorB,
+            distractorC,
+            input_text)
 
 
 
@@ -177,8 +182,8 @@ with open('data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] + '.txt',
           'w') as datfile:
     datfile.write('# ' + str(expinfo) + '\n')
     datfile.write('cityA;cityB;response;rt\n')
-    with open('session/' + expinfo['session'], 'r') as sesfile:
-        exec(sesfile)
+#    with open('session/' + expinfo['session'], 'r') as sesfile:
+#        exec(sesfile)
 
 
 with open('session/cities.txt', 'r') as cities:
