@@ -34,11 +34,11 @@ def trial(cityA, cityB):
 def pause(message):
     visual.TextStim(win,message, height=th).draw()
     win.flip()
+    core.wait(10)
     if event.waitKeys()[0] in ['q', 'escape']:
         core.quit()
 
     win.flip()
-    core.wait(1)
 
 def askProminence(cityname, citycountry, distractors):
     """
@@ -82,7 +82,7 @@ def askProminence(cityname, citycountry, distractors):
 
 
     response_country = None
-    while response_country not in lst:
+    while response_country not in lst + ['KA']:
         pressed_key = event.getKeys(timeStamped=timer)
         if pressed_key and pressed_key[0][0] in ['q', 'escape']:
             core.quit()
@@ -182,8 +182,8 @@ with open('data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] + '.txt',
           'w') as datfile:
     datfile.write('# ' + str(expinfo) + '\n')
     datfile.write('cityA;cityB;response;rt\n')
-#    with open('session/' + expinfo['session'], 'r') as sesfile:
-#        exec(sesfile)
+    with open('session/' + expinfo['session'], 'r') as sesfile:
+        exec(sesfile)
 
 
 with open('session/cities.txt', 'r') as cities:
