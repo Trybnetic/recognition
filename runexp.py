@@ -158,6 +158,8 @@ expinfo = dict( id = raw_input('Subject ID: '),
                age = raw_input('Subject age: '),
                sex = raw_input('Subject gender (f/m): '),
            session = raw_input('Session file: '),
+           student = raw_input('Student? (y/n): '),
+          semester = raw_input('Semester: '),
             tstamp = time.strftime("%Y%m%d_%H%M", time.localtime()))
 
 win = visual.Window(fullscr=True, allowGUI=False, units='pix')
