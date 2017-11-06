@@ -1,2 +1,7 @@
-data/
-session/ses*
+# R related stuff
+*.RData
+*.Rhistory
+*/Rplots.pdf
+
+# Session files
+experimental-software/session/ses*
