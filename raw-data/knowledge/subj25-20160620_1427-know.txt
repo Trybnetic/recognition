@@ -1,0 +1,19 @@
+# {'semester': '8', 'session': 'ses25-0.txt', 'student': 'y', 'age': '24', 'tstamp': '20160620_1427', 'id': '25', 'sex': 'f'}
+Name;Know;resp_country;Country;DistA;DistB;DistC;Size
+Montreal;y;Kanada;Kanada;Südafrika;Türkei;Südkorea;800000
+Seoul;y;Südkorea;Südkorea;Kanada;Chile;Nigeria;9000000
+Santiago;y;Chile;Chile;Südkorea;Kanada;Thailand;3000000
+Shanghai;y;China;China;Myanmar;Kanada;Japan;30000000
+Durban;n;Südafrika;Südafrika;Japan;Chile;China;2000000
+Rangun;n;Thailand;Myanmar;Nigeria;Thailand;Japan;1000000
+Harbin;n;Nigeria;China;Großbritannien;Japan;Nigeria;300000
+Ibadan;n;Myanmar;Nigeria;Kanada;Südkorea;Myanmar;600000
+Tokio;y;Japan;Japan;Thailand;Großbritannien;Myanmar;12000000
+Ankara;y;Türkei;Türkei;Nigeria;Kanada;Japan;4000000
+Chongqing;n;China;China;Kanada;Türkei;Thailand;900000
+Wuhan;n;China;China;Nigeria;Kanada;Großbritannien;500000
+Tianjin;n;China;China;Kanada;Türkei;Thailand;300000
+Kano;n;Nigeria;Nigeria;Südkorea;Kanada;Türkei;200000
+Busan;n;Thailand;Südkorea;Thailand;Südafrika;Großbritannien;100000
+Bangkok;y;Thailand;Thailand;Südafrika;Chile;Großbritannien;10000000
+London;y;Großbritannien;Großbritannien;Kanada;Chile;Türkei;8000000

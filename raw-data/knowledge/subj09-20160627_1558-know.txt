@@ -1,0 +1,19 @@
+# {'semester': '6 (Master)', 'session': 'ses09-0.txt', 'student': 'y', 'age': '26', 'tstamp': '20160627_1558', 'id': '09', 'sex': 'w'}
+Name;Know;resp_country;Country;DistA;DistB;DistC;Size
+Ibadan;n;Nigeria;Nigeria;Myanmar;Japan;Thailand;60000
+Rangun;n;Chile;Myanmar;Chile;Nigeria;Japan;40000
+Santiago;y;Chile;Chile;Thailand;Nigeria;Südafrika;200000
+Shanghai;y;China;China;Südkorea;Kanada;Japan;200000
+Tianjin;n;Nigeria;China;Myanmar;Japan;Nigeria;30000
+Durban;n;Südafrika;Südafrika;Chile;Japan;Nigeria;30000
+Harbin;n;Nigeria;China;Nigeria;Südafrika;Kanada;40000
+Bangkok;y;Thailand;Thailand;Südafrika;Türkei;Nigeria;200000
+Seoul;n;Südkorea;Südkorea;Türkei;Chile;Großbritannien;200000
+Wuhan;n;Südkorea;China;Türkei;Südkorea;Myanmar;100000
+Ankara;y;Türkei;Türkei;Myanmar;Südafrika;Japan;500000
+Montreal;y;Kanada;Kanada;China;Türkei;Südkorea;180000
+London;y;Großbritannien;Großbritannien;Chile;China;Türkei;300000
+Busan;n;Thailand;Südkorea;Großbritannien;Thailand;Nigeria;100000
+Chongqing;n;China;China;Südkorea;Südafrika;Großbritannien;160000
+Tokio;y;Japan;Japan;Südkorea;Südafrika;Türkei;1000000
+Kano;n;Thailand;Nigeria;Kanada;China;Thailand;60000

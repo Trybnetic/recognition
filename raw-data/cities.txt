@@ -1,0 +1,22 @@
+# Retrieved Jun 16, 2016 from:
+# https://de.wikipedia.org/wiki/Liste_der_Millionenst%C3%A4dte (de)
+# https://en.wikipedia.org/wiki/List_of_cities_proper_by_population (en)
+# Original list provided by B. Hilbig in a slightly different order
+rank_de;rank_en;name;population_de;population_en;country;continent
+a;3;1;Shanghai;19210000;24256800;China;Asien
+b;13;16;Seoul;10427819;9995784;Südkorea;Asien
+c;16;8;Tokio;9068918;13297629;Japan;Asien
+d;17;22;London;8534761;8538689;Großbritannien;Europa
+e;22;24;Bangkok;7229651;8280925;Thailand;Asien
+f;33;44;Santiago;4837248;5743719;Chile;Südamerika
+g;34;56;Ankara;4650802;4470800;Türkei;Asien
+h;36;49;Rangun;4477638;5214000;Myanmar;Asien
+i;39;38;Wuhan;4184296;6886253;China;Asien
+j;43;27;Chongqing;3967028;8189800;China;Asien
+k;50;6;Tianjin;3766207;15200000;China;Asien
+l;52;69;Busan;3678551;3590101;Südkorea;Asien
+m;54;65;Kano;3626204;3626068;Nigeria;Afrika
+n;56;100;Ibadan;3565810;3200000;Nigeria;Afrika
+o;59;76;Durban;3346799;3442361;Südafrika;Afrika
+p;60;62;Harbin;3229883;4280701;China;Asien
+q;150;150;Montreal;1620693;1649519;Kanada;Nordamerika
