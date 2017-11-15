@@ -215,7 +215,7 @@ rightTS    = visual.TextStim(win, pos=( 200, 0), height=th)
 ## Paired comparisons
 instruction(INSTRUCTION1)  # INSTRUCTION2 called by session file if necessary
 
-with codecs.open('data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] +
+with codecs.open('../raw-data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] +
                  '-pc.txt', 'w', encoding='utf-8') as datfile:
     datfile.write('# ' + str(expinfo) + '\n')
     datfile.write('city_left;city_right;response;rt\n')
@@ -227,7 +227,7 @@ with codecs.open('data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] +
 ## Knowledge questions
 instruction(INSTRUCTION3)
 
-with codecs.open('data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] +
+with codecs.open('../raw-data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] +
                  '-know.txt', 'w', encoding='utf-8') as datfile:
     datfile.write('# ' + str(expinfo) + '\n')
     datfile.write('Name;Know;resp_country;Country;DistA;DistB;DistC;Size\n')
@@ -235,7 +235,7 @@ with codecs.open('data/subj' + expinfo['id'] + '-' + expinfo['tstamp'] +
         name, country = city_country
         distractors = list(set(countries))  # unique countries
         distractors.remove(country)
-        datfile.write('%s;%s;%s;%s;%s;%s;%s;%s\n' % 
+        datfile.write('%s;%s;%s;%s;%s;%s;%s;%s\n' %
                       askKnowledge(name, country,
                                    random.sample(distractors, 3)))
 
@@ -245,4 +245,3 @@ visual.TextStim(win, u'Vielen Dank für Ihre Teilnahme.', height=th,
 win.flip()
 core.wait(1)
 event.waitKeys()
-

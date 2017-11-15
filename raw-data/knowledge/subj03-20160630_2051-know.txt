@@ -1,0 +1,19 @@
+# {'semester': '6', 'session': 'ses03-0.txt', 'student': 'y', 'age': '21', 'tstamp': '20160630_2051', 'id': '03', 'sex': 'f'}
+Name;Know;resp_country;Country;DistA;DistB;DistC;Size
+Wuhan;n;China;China;Kanada;Thailand;Chile;700000
+Ankara;y;Türkei;Türkei;Kanada;Myanmar;Thailand;2000000000
+Shanghai;y;China;China;Nigeria;Thailand;Südkorea;8000000000
+Kano;n;Nigeria;Nigeria;Thailand;Kanada;Südafrika;9000000000
+Tianjin;n;China;China;Nigeria;Kanada;Südkorea;3000000000
+Bangkok;y;Thailand;Thailand;Nigeria;Südafrika;Myanmar;18000000000
+Busan;y;Südkorea;Südkorea;Kanada;Großbritannien;China;3000000000
+London;y;Großbritannien;Großbritannien;Türkei;Thailand;Südkorea;500000000
+Montreal;y;Großbritannien;Kanada;China;Südkorea;Großbritannien;12000000000
+Rangun;n;Myanmar;Myanmar;China;Türkei;Südafrika;2000000000
+Durban;n;Südafrika;Südafrika;Südkorea;Thailand;Chile;10000000000
+Santiago;n;Chile;Chile;Nigeria;Türkei;Thailand;120000009000
+Chongqing;y;Südafrika;China;Nigeria;Südafrika;Südkorea;23000000000
+Harbin;n;Kanada;China;Chile;Kanada;Thailand;20000000000
+Seoul;y;Südkorea;Südkorea;Chile;Kanada;Südafrika;300000000000
+Tokio;y;Japan;Japan;Großbritannien;Nigeria;Kanada;29000000000
+Ibadan;n;Großbritannien;Nigeria;Japan;Großbritannien;Türkei;1200000000

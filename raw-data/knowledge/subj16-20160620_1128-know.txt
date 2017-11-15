@@ -1,0 +1,19 @@
+# {'semester': '8', 'session': 'ses16-1.txt', 'student': 'y', 'age': '24', 'tstamp': '20160620_1128', 'id': '16', 'sex': 'm'}
+Name;Know;resp_country;Country;DistA;DistB;DistC;Size
+Tianjin;n;China;China;Nigeria;Südafrika;Kanada;200000
+Kano;n;Südkorea;Nigeria;Südkorea;Kanada;Myanmar;200000
+Ibadan;n;Südafrika;Nigeria;Myanmar;Südafrika;China;300000
+Shanghai;y;China;China;Japan;Nigeria;Südafrika;3000000
+Wuhan;n;China;China;Großbritannien;Nigeria;Südafrika;1000000
+Busan;n;Südkorea;Südkorea;Thailand;Kanada;Chile;200000
+Ankara;y;Türkei;Türkei;Kanada;Südkorea;Großbritannien;3000000
+Harbin;n;China;China;Kanada;Japan;Thailand;400000
+Tokio;y;Japan;Japan;Großbritannien;Chile;Nigeria;30000000
+Chongqing;n;China;China;Japan;Südafrika;Chile;500000
+Seoul;y;Südkorea;Südkorea;Südafrika;China;Türkei;4000000
+Durban;n;Südafrika;Südafrika;Thailand;Kanada;Südkorea;5000000
+Montreal;y;Kanada;Kanada;Großbritannien;Südkorea;Thailand;4000000
+Santiago;y;Chile;Chile;Südafrika;Kanada;Myanmar;2000000
+Bangkok;y;Thailand;Thailand;Nigeria;Türkei;Kanada;4000000
+London;y;Großbritannien;Großbritannien;Chile;Myanmar;Kanada;15000000
+Rangun;n;Myanmar;Myanmar;Chile;Südkorea;Türkei;3000000

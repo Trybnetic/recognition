@@ -1,0 +1,19 @@
+# {'semester': '8', 'session': 'ses23-0.txt', 'student': 'y', 'age': '22', 'tstamp': '20160623_1253', 'id': '23', 'sex': 'm'}
+Name;Know;resp_country;Country;DistA;DistB;DistC;Size
+London;y;Großbritannien;Großbritannien;Japan;Myanmar;Nigeria;600000
+Tokio;y;Japan;Japan;Türkei;Südkorea;Südafrika;1200000
+Santiago;n;Chile;Chile;China;Türkei;Nigeria;500000
+Tianjin;n;Thailand;China;Thailand;Chile;Südkorea;350000
+Harbin;n;Großbritannien;China;Türkei;Südkorea;Großbritannien;200000
+Bangkok;y;Südkorea;Thailand;Südafrika;Südkorea;Myanmar;650000
+Kano;n;Myanmar;Nigeria;Myanmar;Japan;Südafrika;300000
+Busan;y;China;Südkorea;China;Großbritannien;Türkei;900000
+Wuhan;n;China;China;Türkei;Nigeria;Chile;800000
+Chongqing;n;China;China;Japan;Nigeria;Südafrika;600000
+Seoul;y;Südkorea;Südkorea;Thailand;Kanada;Nigeria;1100000
+Ankara;y;Türkei;Türkei;Kanada;China;Japan;600000
+Montreal;y;Kanada;Kanada;Nigeria;Thailand;Chile;200000
+Durban;y;Nigeria;Südafrika;Japan;China;Nigeria;150000
+Ibadan;n;Myanmar;Nigeria;Chile;Myanmar;China;300000
+Shanghai;y;China;China;Türkei;Myanmar;Südkorea;1300000
+Rangun;y;Myanmar;Myanmar;Südafrika;Nigeria;China;50000

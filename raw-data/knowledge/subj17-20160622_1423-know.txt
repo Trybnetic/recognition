@@ -1,0 +1,19 @@
+# {'semester': '12', 'session': 'ses17-1.txt', 'student': 'n', 'age': '25', 'tstamp': '20160622_1423', 'id': '17', 'sex': 'f'}
+Name;Know;resp_country;Country;DistA;DistB;DistC;Size
+Rangun;y;Myanmar;Myanmar;Südkorea;Thailand;China;3000000
+Tianjin;y;China;China;Südafrika;Myanmar;Chile;10000000
+Busan;n;Türkei;Südkorea;Türkei;Südafrika;Chile;500000
+London;y;Großbritannien;Großbritannien;Südkorea;Türkei;Thailand;5000000
+Durban;y;Südafrika;Südafrika;China;Japan;Nigeria;3000000
+Tokio;y;Japan;Japan;China;Kanada;Türkei;10000000
+Ankara;y;Türkei;Türkei;Großbritannien;Kanada;Japan;1000000
+Bangkok;y;Thailand;Thailand;Südkorea;Chile;Südafrika;8000000
+Wuhan;y;China;China;Nigeria;Türkei;Myanmar;11000000
+Harbin;n;Türkei;China;Türkei;Thailand;Südkorea;2000000
+Montreal;y;Kanada;Kanada;Großbritannien;Thailand;Chile;2000000
+Kano;n;Nigeria;Nigeria;Türkei;Großbritannien;Thailand;800000
+Ibadan;n;Nigeria;Nigeria;Südafrika;Kanada;China;300000
+Chongqing;n;China;China;Großbritannien;Türkei;Kanada;5000000
+Shanghai;y;China;China;Südkorea;Großbritannien;Nigeria;20000000
+Santiago;y;Chile;Chile;Nigeria;Großbritannien;Türkei;1000000
+Seoul;y;Südkorea;Südkorea;Türkei;Myanmar;China;15000000

@@ -1,0 +1,19 @@
+# {'semester': '10', 'session': 'ses32-1.txt', 'student': 'y', 'age': '24', 'tstamp': '20160621_1608', 'id': '32', 'sex': 'm'}
+Name;Know;resp_country;Country;DistA;DistB;DistC;Size
+Kano;n;Nigeria;Nigeria;Myanmar;Thailand;Türkei;30000
+Busan;n;Südkorea;Südkorea;Türkei;Chile;Nigeria;50000
+Seoul;y;Südkorea;Südkorea;Thailand;Kanada;Großbritannien;4000000
+Tianjin;n;China;China;Türkei;Südkorea;Japan;3000000
+Montreal;y;Kanada;Kanada;Türkei;Südkorea;Japan;1000000
+Durban;y;Südafrika;Südafrika;Myanmar;Chile;Großbritannien;875874
+Wuhan;n;China;China;Südafrika;Chile;Kanada;2234735
+Chongqing;n;Chile;China;Südafrika;Chile;Großbritannien;3000000
+Tokio;y;Japan;Japan;Thailand;Kanada;Chile;30000000
+Ankara;y;Türkei;Türkei;Nigeria;Südafrika;Myanmar;10000000
+Harbin;n;Nigeria;China;Großbritannien;Nigeria;Südkorea;2384761
+Rangun;n;Südkorea;Myanmar;Südkorea;Chile;Türkei;237849
+Shanghai;y;China;China;Nigeria;Thailand;Südkorea;50000000
+Bangkok;y;Thailand;Thailand;Nigeria;Chile;Türkei;20000000
+London;y;Großbritannien;Großbritannien;Südafrika;Türkei;Südkorea;50000000
+Ibadan;n;Nigeria;Nigeria;Myanmar;Türkei;Großbritannien;2794199
+Santiago;y;Chile;Chile;Thailand;Großbritannien;Türkei;30000000
